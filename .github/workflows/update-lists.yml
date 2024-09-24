@@ -1,0 +1,45 @@
+name: Scrape and Commit Playlists
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0 
+
+    - name: Set up PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '8.0'
+
+    - name: Run PHP script
+      run: |
+        php scrape_streamed_su.php || exit 1  # Fail the workflow if PHP script fails
+
+    - name: Squash and force push changes
+      if: success()
+      run: |
+        # Setting up git config
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+
+        # Reset to the first commit
+        FIRST_COMMIT=$(git rev-list --max-parents=0 HEAD)
+        git reset --soft $FIRST_COMMIT
+
+        # Add all changes and create a single new commit
+        git add playlist.m3u8 vlc_playlist.m3u8 kodi_playlist.m3u8 proxied_playlist.m3u8 tivimate_playlist.m3u8 epg.xml streamed_su.json
+        git commit -m "Update playlists" || echo "No changes to commit"
+
+        # Force push to the main branch
+        git push -f origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

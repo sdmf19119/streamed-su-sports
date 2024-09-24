@@ -1,0 +1,361 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/epg.xml"
+#EXTINF:-1 tvg-id="381139ee47ad81dcede453a5a04a308c" tvg-name="ESPN Monday Night Football" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/am-football.png?raw=true" group-title="American-football",05:00 PM - ESPN Monday Night Football - 05:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/espn-monday-night-football/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="1ff986a158c43f48cd4fb0ef4a551e10" tvg-name="ESPN Monday Night Football" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/afl.png?raw=true" group-title="Afl",05:00 PM - ESPN Monday Night Football - 05:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/espn-monday-night-football-stream/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="2054de2d94276a5f76564b72149b685c" tvg-name="Paysandu v Sport Recife" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",05:30 PM - Paysandu v Sport Recife - 05:30 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/delta/js/paysandu-vs-sport-recife-270463/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="eb28c50c6dd999b53b68ee4ccefdcf1f" tvg-name="Sarmiento Junin v Central Cordoba de Santiago" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",05:45 PM - Sarmiento Junin v Central Cordoba de Santiago - 05:45 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/delta/js/sarmiento-junin-vs-central-cordoba-de-santiago-143704/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="6a232c3a0f03c67b1fe21ccb5f3404b9" tvg-name="Monday Night Countdown" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/am-football.png?raw=true" group-title="American-football",06:00 PM - Monday Night Countdown - 06:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/bravo/js/1727128800000-monday-night-countdown/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="7addc1b10910042daa4c884c2ee9fb4e" tvg-name="Sport Huancayo v Cultural Santa Rosa" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",06:30 PM - Sport Huancayo v Cultural Santa Rosa - 06:30 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/delta/js/sport-huancayo-vs-cultural-santa-rosa-270453/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="341888e0b45a505c22aa5ea3b7e8e60d" tvg-name="Philadelphia Phillies v Chicago Cubs" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",06:40 PM - Philadelphia Phillies v Chicago Cubs - 06:40 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/philadelphia-phillies-vs-chicago-cubs/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="7b49b83bd63ca3ac352ff1acbb9e595b" tvg-name="Orlando City B v Chicago Fire II" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",07:00 PM - Orlando City B v Chicago Fire II - 07:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/orlando-city-b-vs-chicago-fire-ii/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="97fcf77b5b7aae9dd7d20be05f2ace2e" tvg-name="Toluca W - Club Leon W" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",07:00 PM - Toluca W - Club Leon W - 07:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/bravo/js/1727132400000-toluca-w-club-leon-w/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="3356547491e35f6dac70946203067696" tvg-name="Montreal Canadiens v Philadelphia Flyers" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/hockey.png?raw=true" group-title="Hockey",07:00 PM - Montreal Canadiens v Philadelphia Flyers - 07:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/montreal-canadiens-vs-philadelphia-flyers/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="7d47bd5ee27e1e2ce2a9c1ce05184b65" tvg-name="Toronto Blue Jays v Boston Red Sox" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",07:07 PM - Toronto Blue Jays v Boston Red Sox - 07:07 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/toronto-blue-jays-vs-boston-red-sox/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="3a3d54159b2340700c4ab54a60db77ad" tvg-name="Buffalo Bills v Jacksonville Jaguars" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/am-football.png?raw=true" group-title="American-football",07:30 PM - Buffalo Bills v Jacksonville Jaguars - 07:30 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/buffalo-bills-vs-jacksonville-jaguars/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="9fa0bc3a3ffcacf2ee8a89c2a31963ae" tvg-name="Jacksonville Jaguars v Buffalo Bills" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/rugby.png?raw=true" group-title="Rugby",07:30 PM - Jacksonville Jaguars v Buffalo Bills - 07:30 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/charlie/js/jacksonville-jaguars-vs-buffalo-bills/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="f8fa9679b06ea2b6ba424ead953d1fce" tvg-name="Buffalo Bills v Jacksonville Jaguars" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/afl.png?raw=true" group-title="Afl",07:30 PM - Buffalo Bills v Jacksonville Jaguars - 07:30 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/buffalo-bills-vs-jacksonville-jaguars-stream/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="9633ed2382faa242af7fd18c8237a974" tvg-name="Banfield v Independiente Rivadavia" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",08:00 PM - Banfield v Independiente Rivadavia - 08:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/banfield-vs-independiente-rivadavia/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="0b074a183acb2666a0985dca5040c309" tvg-name="Velez Sarsfield v Estudiantes de La Plata" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",08:00 PM - Velez Sarsfield v Estudiantes de La Plata - 08:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/velez-sarsfield-vs-estudiantes-de-la-plata/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="3284e58d322fe2b7e7ddde78e0f4680d" tvg-name="Sportivo Luqueno v General Caballero JLM" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",08:00 PM - Sportivo Luqueno v General Caballero JLM - 08:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/sportivo-luqueno-vs-general-caballero-jlm/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="add18be6526603039020184b83bbacac" tvg-name="Chaco For Ever - Atletico Atlanta" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",08:00 PM - Chaco For Ever - Atletico Atlanta - 08:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/bravo/js/1727136000000-chaco-for-ever-atletico-atlanta/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="408b7f30f8f87d65db125e9bfa43a318" tvg-name="Santos - Novorizontino" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",08:00 PM - Santos - Novorizontino - 08:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/bravo/js/1727136000000-santos-novorizontino/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="cd6c33f72e1119035e4e7e263cdbd7ee" tvg-name="Monday Night RAW" tvg-logo="https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/images/fighting.png" group-title="Fight",08:00 PM - Monday Night RAW - 08:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/monday-night-raw/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="d7b9fdd64a7cce43f084b5954c1fc7dc" tvg-name="Road to the Presidents Cup" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/golf.png?raw=true" group-title="Golf",08:00 PM - Road to the Presidents Cup - 08:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/bravo/js/1727136000000-road-to-the-presidents-cup/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="408892e42a6d45273a488d36475eb5a7" tvg-name="Houston Astros v Seattle Mariners" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",08:10 PM - Houston Astros v Seattle Mariners - 08:10 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/houston-astros-vs-seattle-mariners/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="26e5758792b60e91883014e8f6028ee0" tvg-name="Cincinnati Bengals v Washington Commanders" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/am-football.png?raw=true" group-title="American-football",08:15 PM - Cincinnati Bengals v Washington Commanders - 08:15 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/cincinnati-bengals-vs-washington-commanders/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="47eec335aac2776e6ba53520f1d213c6" tvg-name="Washington Commanders v Cincinnati Bengals" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/rugby.png?raw=true" group-title="Rugby",08:15 PM - Washington Commanders v Cincinnati Bengals - 08:15 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/charlie/js/washington-commanders-vs-cincinnati-bengals/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="4ea43764e611c22353faaf7c7b453cdc" tvg-name="Cincinnati Bengals v Washington Commanders" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/afl.png?raw=true" group-title="Afl",08:15 PM - Cincinnati Bengals v Washington Commanders - 08:15 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/cincinnati-bengals-vs-washington-commanders-stream/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="79c2176812c56146f1d8a897868d9f69" tvg-name="Racing Cordoba - Talleres" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",08:30 PM - Racing Cordoba - Talleres - 08:30 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/bravo/js/1727137800000-racing-cordoba-talleres/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="277711dc2e961988291b979235d9e274" tvg-name="Brusque - Amazonas" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",08:30 PM - Brusque - Amazonas - 08:30 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/bravo/js/1727137800000-brusque-amazonas/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="9b808ebf5a726dd435471a7f1f6d2c43" tvg-name="Melgar v Atletico Grau" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",09:00 PM - Melgar v Atletico Grau - 09:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/melgar-vs-atletico-grau/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="8103714d51511102114ee086d72e61c8" tvg-name="Utah v BYU" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",09:00 PM - Utah v BYU - 09:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/charlie/js/utah-vs-byu/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="afb8ffb47d9ed9c3ebbfb26df46d7458" tvg-name="Colorado Avalanche v Dallas Stars" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/hockey.png?raw=true" group-title="Hockey",09:00 PM - Colorado Avalanche v Dallas Stars - 09:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/colorado-avalanche-vs-dallas-stars/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="3c1d72f39614ce9c029a6631f4afcedb" tvg-name="Utah v Los Angeles Kings" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/hockey.png?raw=true" group-title="Hockey",09:00 PM - Utah v Los Angeles Kings - 09:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/utah-vs-los-angeles-kings/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="4fd1551ce417d10a14b82e1201078174" tvg-name="Arizona Diamondbacks v San Francisco Giants" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",09:40 PM - Arizona Diamondbacks v San Francisco Giants - 09:40 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/arizona-diamondbacks-vs-san-francisco-giants/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="6baa758ad593ec1005e308e7ea648289" tvg-name="Angel City W v Portland Thorns W" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",10:00 PM - Angel City W v Portland Thorns W - 10:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/angel-city-w-vs-portland-thorns-w/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="66c49a8ea43d7d8a416d7dcbed190daa" tvg-name="San José State v San Francisco" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",10:00 PM - San José State v San Francisco - 10:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/charlie/js/san-jose-state-vs-san-francisco/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="1bf16a6008a4a007939363251ddec24e" tvg-name="Loyola Marymount v Grand Canyon" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",10:00 PM - Loyola Marymount v Grand Canyon - 10:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/charlie/js/loyola-marymount-vs-grand-canyon/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="279df9e589a38a26ea82a700d5b287dd" tvg-name="WWE Raw Talk" tvg-logo="https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/images/fighting.png" group-title="Fight",10:00 PM - WWE Raw Talk - 10:00 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/wwe-raw-talk/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="39d8c5ff182f92b78c6aa2ab01d8cf21" tvg-name="Los Angeles FC II v Real Monarchs" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",10:30 PM - Los Angeles FC II v Real Monarchs - 10:30 PM EDT - (09/23/2024)
+https://rr.vipstreams.in/alpha/js/los-angeles-fc-ii-vs-real-monarchs/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="3d9dbcb30ebcd530f386de760eebe60f" tvg-name="ECS Cyprus, Encore, 2024 | Day 12| 12Jun 2024 | T10 Live Cricket | European Cricket" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/cricket.png?raw=true" group-title="Cricket",02:30 AM - ECS Cyprus, Encore, 2024 | Day 12| 12Jun 2024 | T10 Live Cricket | European Cricket - 02:30 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/ecs-cyprus-encore-2024-or-day-12or-12jun-2024-or-t10-live-cricket-or-european-cricket/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="6b0ede0cd41677f665f8d0f2675da7da" tvg-name="Lesotho v Ghana" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/cricket.png?raw=true" group-title="Cricket",02:30 AM - Lesotho v Ghana - 02:30 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/lesotho-vs-ghana/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="42dd76cdfa9a095182207e475e435e1e" tvg-name="Madrid Open, Day 2" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/tennis.png?raw=true" group-title="Tennis",03:00 AM - Madrid Open, Day 2 - 03:00 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/madrid-open-day-2/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="b0926efed11b714ed351e622e308ac5e" tvg-name="United Arab Emirates v USA" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/cricket.png?raw=true" group-title="Cricket",03:30 AM - United Arab Emirates v USA - 03:30 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/united-arab-emirates-vs-usa/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="91c76b79dcbd49c13fab5cddb20237fe" tvg-name="Orix Buffaloes v Seibu Lions" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",05:00 AM - Orix Buffaloes v Seibu Lions - 05:00 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/orix-buffaloes-vs-seibu-lions/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="a5b1b7490c2c06d3e295ac84f3d72085" tvg-name="British Open 2024 - Day 2" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/billiards.png?raw=true" group-title="Billiards",05:00 AM - British Open 2024 - Day 2 - 05:00 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/british-open-2024-day-2/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="abf3bda9aacedf99a763cb396d0ba2ee" tvg-name="Australia W v New Zealand W" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/cricket.png?raw=true" group-title="Cricket",05:10 AM - Australia W v New Zealand W - 05:10 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/australia-w-vs-new-zealand-w/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="1976144859d2cb82dc61b261f33618d7" tvg-name="Ansan Greeners v Cheongju" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",06:30 AM - Ansan Greeners v Cheongju - 06:30 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/ansan-greeners-vs-cheongju/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="a2305d7654d66123a2c2477b5a62f931" tvg-name="Asan v Cheonan City" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",06:30 AM - Asan v Cheonan City - 06:30 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/asan-vs-cheonan-city/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="37597523fd94ea631251f73ffafc430c" tvg-name="Seoul E-Land v Anyang" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",06:30 AM - Seoul E-Land v Anyang - 06:30 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/seoul-e-land-vs-anyang/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="d9d018b8f4034b94af71ff89df676a80" tvg-name="Tanzania v Cameroon" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/cricket.png?raw=true" group-title="Cricket",06:50 AM - Tanzania v Cameroon - 06:50 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/tanzania-vs-cameroon/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="bcffff9c93d6a5fcfcdee4bfc5c5049e" tvg-name="Mali v Malawi" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/cricket.png?raw=true" group-title="Cricket",06:50 AM - Mali v Malawi - 06:50 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/mali-vs-malawi/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="e04545b3deccd23e9cc17b8202295d13" tvg-name="Nakhon Ratchasima FC v Nong Bua Pitchaya" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",07:00 AM - Nakhon Ratchasima FC v Nong Bua Pitchaya - 07:00 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/nakhon-ratchasima-fc-vs-nong-bua-pitchaya/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="1cf0ccec17fdb4922f42a30049925e37" tvg-name="Players Championship 22" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/darts.PNG?raw=true" group-title="Darts",07:20 AM - Players Championship 22 - 07:20 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/players-championship-22/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="ae80506c201b7f55a7873e88f984ac9d" tvg-name="England v Australia" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/cricket.png?raw=true" group-title="Cricket",07:30 AM - England v Australia - 07:30 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/england-vs-australia/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="b3888ff31354051a5cee008cc47b8e75" tvg-name="Uthai Thani v Chiangrai Utd" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",08:00 AM - Uthai Thani v Chiangrai Utd - 08:00 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/uthai-thani-vs-chiangrai-utd/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="b9295163134c92c074293cc269665140" tvg-name="Orlando Pirates v Polokwane City" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",09:00 AM - Orlando Pirates v Polokwane City - 09:00 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/orlando-pirates-vs-polokwane-city/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="d7be0885c1d4586ac8fe89b962fc9e74" tvg-name="Lecce v Sassuolo" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",10:00 AM - Lecce v Sassuolo - 10:00 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/lecce-vs-sassuolo/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="5497307b9f3444a4aeca5fa46a911f26" tvg-name="Trinbago Knight Riders v Saint Lucia Kings" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/cricket.png?raw=true" group-title="Cricket",10:00 AM - Trinbago Knight Riders v Saint Lucia Kings - 10:00 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/trinbago-knight-riders-vs-saint-lucia-kings/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="4019dc27ae9f5044e0ad60736722ed33" tvg-name="Nepal v Oman" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/cricket.png?raw=true" group-title="Cricket",10:00 AM - Nepal v Oman - 10:00 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/nepal-vs-oman/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="7c57e5b3d7735600ee7a9eeb201dbddd" tvg-name="AC Oulu v Inter Turku" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",11:00 AM - AC Oulu v Inter Turku - 11:00 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/ac-oulu-vs-inter-turku/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="b888ee8c79f9060f01ce89785685e169" tvg-name="Mamelodi Sundowns v Marumo Gallants" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",11:30 AM - Mamelodi Sundowns v Marumo Gallants - 11:30 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/mamelodi-sundowns-vs-marumo-gallants/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="978c3884768b8c9ac3b6863bd8ecd377" tvg-name="Tappara v KalPa" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/hockey.png?raw=true" group-title="Hockey",11:30 AM - Tappara v KalPa - 11:30 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/tappara-vs-kalpa/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="c7aa1a477344b6bb11830c03ac77108d" tvg-name="Al Bukayriyah v Al-Hilal Saudi FC" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",11:35 AM - Al Bukayriyah v Al-Hilal Saudi FC - 11:35 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/delta/js/al-bukayriyah-vs-alhilal-saudi-fc-269431/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="ca6f2123cf17fe7a59f9d65c8f9ee466" tvg-name="Al Jabalain v Al-Fateh" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",11:45 AM - Al Jabalain v Al-Fateh - 11:45 AM EDT - (09/24/2024)
+https://rr.vipstreams.in/delta/js/al-jabalain-vs-alfateh-269441/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="b533dba13e261f79192b2f1ded59dd0b" tvg-name="Ilves v KuPS" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",12:00 PM - Ilves v KuPS - 12:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/ilves-vs-kups/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="d20e80562f9f8dd3a4513a7aabbe4048" tvg-name="Turk Telekom v Lietkabelis" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/basketball.png?raw=true" group-title="Basketball",12:30 PM - Turk Telekom v Lietkabelis - 12:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/turk-telekom-vs-lietkabelis/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="e9e084d7bcea373331d550f0bb6bf048" tvg-name="Cagliari v Cremonese" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",12:30 PM - Cagliari v Cremonese - 12:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/cagliari-vs-cremonese/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="b4238d9ea733ef6b07c3b41828a22f1d" tvg-name="Sevilla v Real Valladolid" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",01:00 PM - Sevilla v Real Valladolid - 01:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/sevilla-vs-real-valladolid/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="81698cb66b8561c248716973f8ec9e77" tvg-name="Valencia v Osasuna" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",01:00 PM - Valencia v Osasuna - 01:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/valencia-vs-osasuna/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="9e47425aa5a85ef1596e857d2fcab0fc" tvg-name="Annecy v Troyes" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",01:00 PM - Annecy v Troyes - 01:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/annecy-vs-troyes/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="ac5d06229cf79fbb78e3b75e6da870a6" tvg-name="Gefle v Ostersund" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",01:00 PM - Gefle v Ostersund - 01:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/gefle-vs-ostersund/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="bffb16ee54f2a7bd2f8cb7689c7eb5e2" tvg-name="Landskrona v Helsingborg" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",01:00 PM - Landskrona v Helsingborg - 01:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/landskrona-vs-helsingborg/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="49dffbd84823e8340646dd6097ee601a" tvg-name="Utsikten v Orgryte" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",01:00 PM - Utsikten v Orgryte - 01:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/utsikten-vs-orgryte/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="ddc6239ea47160b52beb087db44df444" tvg-name="Erokspor v Yeni Malatyaspor" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",01:00 PM - Erokspor v Yeni Malatyaspor - 01:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/erokspor-vs-yeni-malatyaspor/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="362b5fc257745cfd4cf4f16f3c9c3bce" tvg-name="Landes W v Besiktas W" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/basketball.png?raw=true" group-title="Basketball",01:30 PM - Landes W v Besiktas W - 01:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/landes-w-vs-besiktas-w/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="a08f56427aad8ff68d68fdca86714750" tvg-name="Hamburg v JL Bourg" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/basketball.png?raw=true" group-title="Basketball",01:30 PM - Hamburg v JL Bourg - 01:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/hamburg-vs-jl-bourg/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="c37488d469d19fbb14f0d36378b0cf05" tvg-name="Royal AM v Richards Bay" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",01:30 PM - Royal AM v Richards Bay - 01:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/royal-am-vs-richards-bay/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="806c4361ca9385159ab3411f8768ff83" tvg-name="EHC Kloten v Lausanne" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/hockey.png?raw=true" group-title="Hockey",01:45 PM - EHC Kloten v Lausanne - 01:45 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/ehc-kloten-vs-lausanne/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="facb26567c3b9c0e7648b162e35da549" tvg-name="Fribourg v Biel" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/hockey.png?raw=true" group-title="Hockey",01:45 PM - Fribourg v Biel - 01:45 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/fribourg-vs-biel/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="e719b58169c735a1bd904c5186842476" tvg-name="Langnau Tigers v Davos" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/hockey.png?raw=true" group-title="Hockey",01:45 PM - Langnau Tigers v Davos - 01:45 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/langnau-tigers-vs-davos/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="2f208c94a7670b50886a4f28a701ffa7" tvg-name="Lugano v Bern" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/hockey.png?raw=true" group-title="Hockey",01:45 PM - Lugano v Bern - 01:45 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/lugano-vs-bern/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="a69afdbf79d5ae0072a4922bf81f08ad" tvg-name="Rapperswil v Ajoie" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/hockey.png?raw=true" group-title="Hockey",01:45 PM - Rapperswil v Ajoie - 01:45 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/rapperswil-vs-ajoie/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="78d3269241973e7916514aa86eac4db8" tvg-name="Zug v Ambri-Piotta" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/hockey.png?raw=true" group-title="Hockey",01:45 PM - Zug v Ambri-Piotta - 01:45 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/zug-vs-ambri-piotta/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="cccff26ea7c9083199db0001a53bb284" tvg-name="Zurich v Servette" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/hockey.png?raw=true" group-title="Hockey",01:45 PM - Zurich v Servette - 01:45 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/zurich-vs-servette/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="6abde1c4fb1e66eb64456a79f3a22ecc" tvg-name="Zaragoza W v CSM Constanta W" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/basketball.png?raw=true" group-title="Basketball",02:00 PM - Zaragoza W v CSM Constanta W - 02:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/zaragoza-w-vs-csm-constanta-w/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="5a7dd4881a80ddc1f533df9d75eb5033" tvg-name="Palestino v Deportes Iquique" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:00 PM - Palestino v Deportes Iquique - 02:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/palestino-vs-deportes-iquique/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="9130adf90940f123d4005c2f6ba7d753" tvg-name="Al Kholood v Al Shabab" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:00 PM - Al Kholood v Al Shabab - 02:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/delta/js/al-kholood-vs-al-shabab-269442/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="5345f750d9127d65c923b1c6af2ad5e7" tvg-name="Burton Albion v Notts County" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:00 PM - Burton Albion v Notts County - 02:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/delta/js/burton-albion-vs-notts-county-254106/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="5ce58c8d3ab3d56b85342f868ef86fc1" tvg-name="Lincoln v Manchester City U21" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:00 PM - Lincoln v Manchester City U21 - 02:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/delta/js/lincoln-vs-manchester-city-u21-273522/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="2667c22f7c6a02424c8d6fa5ecf69338" tvg-name="Gillingham v Crystal Palace U21" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:00 PM - Gillingham v Crystal Palace U21 - 02:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/delta/js/gillingham-vs-crystal-palace-u21-273524/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="f34858398ed3900a8e90d63d92713f66" tvg-name="Al-Ittihad FC v Al-Ain" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:00 PM - Al-Ittihad FC v Al-Ain - 02:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/delta/js/alittihad-fc-vs-alain-269433/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="2cd6a7b295fe81436b2d93394e0700bd" tvg-name="Exeter City v Tottenham Hotspur U21" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:00 PM - Exeter City v Tottenham Hotspur U21 - 02:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/delta/js/exeter-city-vs-tottenham-hotspur-u21-273525/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="34a5b731aa81be4a4798def4e62f97ea" tvg-name="Joventut Badalona v Hapoel Tel-Aviv" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/basketball.png?raw=true" group-title="Basketball",02:30 PM - Joventut Badalona v Hapoel Tel-Aviv - 02:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/joventut-badalona-vs-hapoel-tel-aviv/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="75c585043b54518fbc73e151fc2c72f9" tvg-name="AC Ajaccio v Grenoble" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:30 PM - AC Ajaccio v Grenoble - 02:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/ac-ajaccio-vs-grenoble/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="8cdf4607d7a2908139c4b12c676fefdc" tvg-name="Caen v SC Amiens" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:30 PM - Caen v SC Amiens - 02:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/caen-vs-sc-amiens/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="5d16a77f1656a3b25ebea7656c88a6f8" tvg-name="Clermont Foot v Red Star FC 93" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:30 PM - Clermont Foot v Red Star FC 93 - 02:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/clermont-foot-vs-red-star-fc-93/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="5a1cbdcf93a525940cdf949e3e0b822e" tvg-name="Dunkerque v Bastia" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:30 PM - Dunkerque v Bastia - 02:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/dunkerque-vs-bastia/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="2a943b1ab04217ec972c1d08b099d0d7" tvg-name="Metz v Martigues" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:30 PM - Metz v Martigues - 02:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/metz-vs-martigues/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="063410e40bc2524c38f0764d2643da39" tvg-name="Paris FC v Guingamp" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:30 PM - Paris FC v Guingamp - 02:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/paris-fc-vs-guingamp/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="bbac0fb5339cd1d473429343ec1a8087" tvg-name="Pau v Lorient" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:30 PM - Pau v Lorient - 02:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/pau-vs-lorient/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="2598c0bbe212e05f81024ef453227e31" tvg-name="Rodez Aveyron v Stade Laval" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:30 PM - Rodez Aveyron v Stade Laval - 02:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/rodez-aveyron-vs-stade-laval/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="5b451ff3d1fdaf1afbf2d29e67d209fd" tvg-name="St. Gallen v Zurich" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:30 PM - St. Gallen v Zurich - 02:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/st-gallen-vs-zurich/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="144559665f2bd304ad04fe1117a1fc57" tvg-name="Annecy v Estac Troyes" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:30 PM - Annecy v Estac Troyes - 02:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/delta/js/annecy-vs-estac-troyes-273528/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="95f476b2f1608d80a72a765b5ce38778" tvg-name="Rodez v Laval" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:30 PM - Rodez v Laval - 02:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/delta/js/rodez-vs-laval-273537/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="02259fcbac39949a1ac9c62f41799f64" tvg-name="AFC Wimbledon v Newcastle United" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:45 PM - AFC Wimbledon v Newcastle United - 02:45 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/afc-wimbledon-vs-newcastle-united/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="70783d61c36777914029b8953aab0253" tvg-name="Chelsea v Barrow" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:45 PM - Chelsea v Barrow - 02:45 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/chelsea-vs-barrow/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="4eb5e1d58bc0ee22d39001d8224e077e" tvg-name="Manchester City v Watford" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:45 PM - Manchester City v Watford - 02:45 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/manchester-city-vs-watford/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="14d0d32e0e248eb41866b9b0dcff3285" tvg-name="Huddersfield v Blackpool" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:45 PM - Huddersfield v Blackpool - 02:45 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/huddersfield-vs-blackpool/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="b85b00cc6631b780c3830e932ff945b3" tvg-name="Wigan v Stevenage" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:45 PM - Wigan v Stevenage - 02:45 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/wigan-vs-stevenage/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="ce87b8f48d9dc6c7ccd3d1b116868873" tvg-name="Walsall v Leicester City" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:45 PM - Walsall v Leicester City - 02:45 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/walsall-vs-leicester-city/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="ea8dc53f63ed2f873d69eaf23f27df08" tvg-name="Harrogate Town v Liverpool U21" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:45 PM - Harrogate Town v Liverpool U21 - 02:45 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/delta/js/harrogate-town-vs-liverpool-u21-254105/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="93a230611ee4a719728873728b42e42f" tvg-name="Atalanta v Como" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:45 PM - Atalanta v Como - 02:45 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/delta/js/atalanta-vs-como-269461/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="1e385ffb5be70571d7995d0b1cd96f6d" tvg-name="Gran Canaria v Trento" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/basketball.png?raw=true" group-title="Basketball",03:00 PM - Gran Canaria v Trento - 03:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/gran-canaria-vs-trento/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="a3a8506b421bd27fd09c8ddf64a127b4" tvg-name="Real Madrid v Alaves" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",03:00 PM - Real Madrid v Alaves - 03:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/real-madrid-vs-alaves/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="242fe6ab7052e2f7c483f119dd2ec009" tvg-name="Wycombe Wanderers v Aston Villa" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",03:00 PM - Wycombe Wanderers v Aston Villa - 03:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/alpha/js/wycombe-wanderers-vs-aston-villa/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="8c57b658592e508f01f1cc12e0a454f1" tvg-name="Operario-PR v Guarani Campinas" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",06:00 PM - Operario-PR v Guarani Campinas - 06:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/delta/js/operariopr-vs-guarani-campinas-273578/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="3a0ea94e024cc44e2065d26c0060481f" tvg-name="Kansas City Royals v Washington Nationals" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",06:30 PM - Kansas City Royals v Washington Nationals - 06:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/kansas-city-royals-vs-washington-nationals/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="d101740d7d39b25bcfcdc8fcdcc2d625" tvg-name="Milwaukee Brewers v Pittsburgh Pirates" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",06:30 PM - Milwaukee Brewers v Pittsburgh Pirates - 06:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/milwaukee-brewers-vs-pittsburgh-pirates/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="ab2ecffdce3517cd4ac13afb5b1b1b4d" tvg-name="Chicago Cubs v Philadelphia Phillies" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",06:30 PM - Chicago Cubs v Philadelphia Phillies - 06:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/chicago-cubs-vs-philadelphia-phillies/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="9558225f32e81b39d59fc4adc8ca331d" tvg-name="Tampa Bay Rays v Detroit Tigers" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",06:30 PM - Tampa Bay Rays v Detroit Tigers - 06:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/tampa-bay-rays-vs-detroit-tigers/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="c56b149b55c27de4f57fac5ce712d06d" tvg-name="Cincinnati Reds v Cleveland Guardians" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",06:30 PM - Cincinnati Reds v Cleveland Guardians - 06:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/cincinnati-reds-vs-cleveland-guardians/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="85267b4caa81ee5c9ec8e42f2c20b4b5" tvg-name="Lafayette v La Salle" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",07:00 PM - Lafayette v La Salle - 07:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/lafayette-vs-la-salle/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="ef6f4373426a749973cd57941e81a1bb" tvg-name="Penn State v St. John's" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",07:00 PM - Penn State v St. John's - 07:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/penn-state-vs-st-johns/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="4480e361a59bb78bb640430b63beda8e" tvg-name="New York Islanders v New York Rangers" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/hockey.png?raw=true" group-title="Hockey",07:00 PM - New York Islanders v New York Rangers - 07:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/new-york-islanders-vs-new-york-rangers/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="389464ab9d3128544fb831569c7fde14" tvg-name="Washington Capitals v Boston Bruins" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/hockey.png?raw=true" group-title="Hockey",07:00 PM - Washington Capitals v Boston Bruins - 07:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/washington-capitals-vs-boston-bruins/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="128cd64f33afd82c020afc08b04a2a32" tvg-name="New Jersey Devils v Montreal Canadiens" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/hockey.png?raw=true" group-title="Hockey",07:00 PM - New Jersey Devils v Montreal Canadiens - 07:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/new-jersey-devils-vs-montreal-canadiens/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="b343320f6f0d4672223552d371427778" tvg-name="Toronto Maple Leafs v Ottawa Senators" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/hockey.png?raw=true" group-title="Hockey",07:00 PM - Toronto Maple Leafs v Ottawa Senators - 07:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/toronto-maple-leafs-vs-ottawa-senators/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="cbd6c54d3b9d6292ef57b91c5eb80ee0" tvg-name="New York Mets v Atlanta Braves" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",07:00 PM - New York Mets v Atlanta Braves - 07:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/new-york-mets-vs-atlanta-braves/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="60a3ea0adaabf6e23490d0b932e48773" tvg-name="Boston Red Sox v Toronto Blue Jays" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",07:00 PM - Boston Red Sox v Toronto Blue Jays - 07:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/boston-red-sox-vs-toronto-blue-jays/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="9542a4cdf5d6cdf58b16af3383849fa0" tvg-name="Atlanta Dream v New York Liberty" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/basketball.png?raw=true" group-title="Basketball",07:30 PM - Atlanta Dream v New York Liberty - 07:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/atlanta-dream-vs-new-york-liberty/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="20247b9ce3a9c08c632c2c0c8d6c44a3" tvg-name="Miami Marlins v Minnesota Twins" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",07:30 PM - Miami Marlins v Minnesota Twins - 07:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/miami-marlins-vs-minnesota-twins/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="3f0c978ffb0393a1bceb760fa46a7515" tvg-name="Los Angeles Angels v Chicago White Sox" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",07:30 PM - Los Angeles Angels v Chicago White Sox - 07:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/los-angeles-angels-vs-chicago-white-sox/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="e671d29ac3d3226d0b4f2afefb78f2fb" tvg-name="Seattle Mariners v Houston Astros" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",08:00 PM - Seattle Mariners v Houston Astros - 08:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/seattle-mariners-vs-houston-astros/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="21dc0469823bbdc99134b3c469a0f708" tvg-name="SEASON 8, WEEK 7" tvg-logo="https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/images/fighting.png" group-title="Fight",08:00 PM - SEASON 8, WEEK 7 - 08:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/season-8-week-7/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="dbe783bf99e00fe07fb422b7e6a8e093" tvg-name="Corinthians v Fortaleza" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",08:30 PM - Corinthians v Fortaleza - 08:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/corinthians-vs-fortaleza/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="22c4a594630e360466720e111883418c" tvg-name="River Plate v Colo-Colo" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",08:30 PM - River Plate v Colo-Colo - 08:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/river-plate-vs-colo-colo/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="33e0ad7e79f9d3dbcc68a944d7fac78e" tvg-name="Botafogo SP v CRB" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",08:30 PM - Botafogo SP v CRB - 08:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/delta/js/botafogo-sp-vs-crb-243919/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="65780b268a4d72d8660a41cf102f5862" tvg-name="Ponte Preta v America Mineiro" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",08:30 PM - Ponte Preta v America Mineiro - 08:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/delta/js/ponte-preta-vs-america-mineiro-273646/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="b16f209b7544a3b41fe60dd4b7002320" tvg-name="St. Louis Cardinals v Colorado Rockies" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",08:30 PM - St. Louis Cardinals v Colorado Rockies - 08:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/st-louis-cardinals-vs-colorado-rockies/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="b9d48a70c1cb7f47e03863eec06a01ef" tvg-name="Seattle Storm v Las Vegas Aces" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/basketball.png?raw=true" group-title="Basketball",09:30 PM - Seattle Storm v Las Vegas Aces - 09:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/seattle-storm-vs-las-vegas-aces/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="b804053b6861ecc4add1219bab39dfbd" tvg-name="San Francisco Giants v Arizona Diamondbacks" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",09:30 PM - San Francisco Giants v Arizona Diamondbacks - 09:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/san-francisco-giants-vs-arizona-diamondbacks/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="b1fbe442f75a0a7190cf5b60b44f4e3d" tvg-name="Texas Rangers v Oakland Athletics" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",09:30 PM - Texas Rangers v Oakland Athletics - 09:30 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/texas-rangers-vs-oakland-athletics/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="52863e441a130bbfa24bb60bb39b785b" tvg-name="Antigua GFC v Deportivo Saprissa" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",10:00 PM - Antigua GFC v Deportivo Saprissa - 10:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/delta/js/antigua-gfc-vs-deportivo-saprissa-273492/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="4d30485ffda7c7d8d0d5057bb944c571" tvg-name="Seattle Kraken v Vancouver Canucks" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/hockey.png?raw=true" group-title="Hockey",10:00 PM - Seattle Kraken v Vancouver Canucks - 10:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/seattle-kraken-vs-vancouver-canucks/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="9a7fee74f460c84a84ed1cc405fcbe05" tvg-name="San Diego Padres v Los Angeles Dodgers" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",10:00 PM - San Diego Padres v Los Angeles Dodgers - 10:00 PM EDT - (09/24/2024)
+https://rr.vipstreams.in/charlie/js/san-diego-padres-vs-los-angeles-dodgers/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="05f3bccd790cf80a8eefe00b3c894e13" tvg-name="Tanzania v Ghana" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/cricket.png?raw=true" group-title="Cricket",02:30 AM - Tanzania v Ghana - 02:30 AM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/tanzania-vs-ghana/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="3eb811b413b4f1d66b76446f2f446cd8" tvg-name="Taranaki v North Harbour" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/rugby.png?raw=true" group-title="Rugby",03:00 AM - Taranaki v North Harbour - 03:00 AM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/taranaki-vs-north-harbour/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="e2ed604f92ab0c24eb1976acf0020827" tvg-name="Fukuoka SoftBank Hawks v Saitama Seibu Lions" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",05:00 AM - Fukuoka SoftBank Hawks v Saitama Seibu Lions - 05:00 AM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/fukuoka-softbank-hawks-vs-saitama-seibu-lions/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="7ae7f9fa29e0614b387c47f6c9b75170" tvg-name="Yokohama Dena Baystars v Yomiuri Giants" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",05:00 AM - Yokohama Dena Baystars v Yomiuri Giants - 05:00 AM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/yokohama-dena-baystars-vs-yomiuri-giants/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="776d64140fea38d2981ef50c36fdc81d" tvg-name="Hokkaido Nippon-Ham Fighters v cTohoku Rakuten Golden Eagles" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/baseball.png?raw=true" group-title="Baseball",05:00 AM - Hokkaido Nippon-Ham Fighters v cTohoku Rakuten Golden Eagles - 05:00 AM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/hokkaido-nippon-ham-fighters-vs-ctohoku-rakuten-golden-eagles/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="9f671b0cf9cd4a78f552003bd2962a12" tvg-name="British Open 2024 - Day 3 - T1" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/billiards.png?raw=true" group-title="Billiards",05:00 AM - British Open 2024 - Day 3 - T1 - 05:00 AM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/british-open-2024-day-3-t1/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="fc306ce727158705532cdc4afbdab8b5" tvg-name="Ventforet Kofu v Roasso Kumamoto" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",06:00 AM - Ventforet Kofu v Roasso Kumamoto - 06:00 AM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/ventforet-kofu-vs-roasso-kumamoto/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="d41fc863dd1f90e672671d0d833aed04" tvg-name="Suwon Bluewings v Busan I'Park" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",06:30 AM - Suwon Bluewings v Busan I'Park - 06:30 AM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/suwon-bluewings-vs-busan-ipark/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="99ba0501c0ed7da9a6c197b939750ecc" tvg-name="Gyeongnam v Gimpo" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",06:30 AM - Gyeongnam v Gimpo - 06:30 AM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/gyeongnam-vs-gimpo/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="d0fe61ed9ae4d30e28913724369dbcb8" tvg-name="Mali v Lesotho" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/cricket.png?raw=true" group-title="Cricket",06:50 AM - Mali v Lesotho - 06:50 AM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/mali-vs-lesotho/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="824700794fa9987e54284b1424599ee2" tvg-name="Players Championship 23" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/darts.PNG?raw=true" group-title="Darts",07:20 AM - Players Championship 23 - 07:20 AM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/players-championship-23/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="30aeecaa6259e29e2eaf58082ff14490" tvg-name="Madrid Open, Day 3" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/tennis.png?raw=true" group-title="Tennis",08:00 AM - Madrid Open, Day 3 - 08:00 AM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/madrid-open-day-3/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="bf7bbab61e356cc4ae176ae0eb547cc1" tvg-name="Pisa v Cesena" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",10:00 AM - Pisa v Cesena - 10:00 AM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/pisa-vs-cesena/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="a891d1fda7231fa40cb2b283316920fe" tvg-name="Bodrum Basketbol v GiroLive Panthers Osnabruck" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/basketball.png?raw=true" group-title="Basketball",12:00 PM - Bodrum Basketbol v GiroLive Panthers Osnabruck - 12:00 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/bodrum-basketbol-vs-girolive-panthers-osnabruck/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="c2095ca1898ed1f8db107e65b7d79e7e" tvg-name="Wolves Twinsbet Vilnius v Bahcesehir College Istanbul" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/basketball.png?raw=true" group-title="Basketball",12:00 PM - Wolves Twinsbet Vilnius v Bahcesehir College Istanbul - 12:00 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/wolves-twinsbet-vilnius-vs-bahcesehir-college-istanbul/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="e274544130653df46a752124b31321eb" tvg-name="U-BT Cluj-Napoca v Cedevita Olimpija Ljubljana" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/basketball.png?raw=true" group-title="Basketball",12:00 PM - U-BT Cluj-Napoca v Cedevita Olimpija Ljubljana - 12:00 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/u-bt-cluj-napoca-vs-cedevita-olimpija-ljubljana/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="37d7c94b977250a3f46d69892bad6240" tvg-name="Udinese v Salernitana" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",12:30 PM - Udinese v Salernitana - 12:30 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/udinese-vs-salernitana/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="29d1e547293b5d338589c62c1ec8f79b" tvg-name="AZ v Elfsborg" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",12:45 PM - AZ v Elfsborg - 12:45 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/az-vs-elfsborg/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="4c6ee50d2c5e2ae69a1f813a27bbbab0" tvg-name="Bodø / Glimt v Porto" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",12:45 PM - Bodø / Glimt v Porto - 12:45 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/bodo-glimt-vs-porto/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="c78bd2cd758ae9d14ec39cf211eea882" tvg-name="Girona v Rayo Vallecano" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",01:00 PM - Girona v Rayo Vallecano - 01:00 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/girona-vs-rayo-vallecano/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="1e8f9cce3fd4fcb1820dcaf2ab74a510" tvg-name="Arsenal v Bolton Wanderers" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",02:45 PM - Arsenal v Bolton Wanderers - 02:45 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/arsenal-vs-bolton-wanderers/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="d21a303b20424fc886019e71b779f9eb" tvg-name="Ludogorets v Slavia Praha" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",03:00 PM - Ludogorets v Slavia Praha - 03:00 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/ludogorets-vs-slavia-praha/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="3c3d60a0f90ee6e02d81aef2322d1fa4" tvg-name="Anderlecht v Ferencváros" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",03:00 PM - Anderlecht v Ferencváros - 03:00 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/anderlecht-vs-ferencvaros/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="4d42f87c8502b5f9bf779c38da1d4807" tvg-name="Genoa v Sampdoria" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",03:00 PM - Genoa v Sampdoria - 03:00 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/genoa-vs-sampdoria/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="d1d3955df796c0f1ca93e60e0f650eff" tvg-name="Galatasaray v PAOK" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",03:00 PM - Galatasaray v PAOK - 03:00 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/galatasaray-vs-paok/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="49666201beaacc3dfaf0398b2260ea10" tvg-name="Dynamo Kyiv v Lazio" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",03:00 PM - Dynamo Kyiv v Lazio - 03:00 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/dynamo-kyiv-vs-lazio/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="cbda37f8e5e392c706a1679a3380ec69" tvg-name="FC Midtjylland v TSG Hoffenheim" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",03:00 PM - FC Midtjylland v TSG Hoffenheim - 03:00 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/fc-midtjylland-vs-tsg-hoffenheim/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="6db16f496cd070f46880e42c67af8dbc" tvg-name="Nice v Real Sociedad" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",03:00 PM - Nice v Real Sociedad - 03:00 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/nice-vs-real-sociedad/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="2689f70ac1e11073918d4234a5133ab4" tvg-name="Manchester United v FC Twente" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",03:00 PM - Manchester United v FC Twente - 03:00 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/manchester-united-vs-fc-twente/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="410e3270303a48901d9d68ccf1dfa87b" tvg-name="Liverpool v West Ham United" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",03:00 PM - Liverpool v West Ham United - 03:00 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/liverpool-vs-west-ham-united/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="1c95ca286b272b53f330be1bbdc2cf17" tvg-name="FC Barcelona v Getafe" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",03:00 PM - FC Barcelona v Getafe - 03:00 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/fc-barcelona-vs-getafe/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="a17b2dbe261bc9e1cfbc603ce6643773" tvg-name="Orange County v Phoenix Rising" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",10:30 PM - Orange County v Phoenix Rising - 10:30 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/orange-county-vs-phoenix-rising/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="5722dc1584f167495bb93a98e613277c" tvg-name="Los Angeles FC v Sporting KC" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",10:30 PM - Los Angeles FC v Sporting KC - 10:30 PM EDT - (09/25/2024)
+https://rr.vipstreams.in/charlie/js/los-angeles-fc-vs-sporting-kc/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="bde43602ece46724a6b4ec418957d120" tvg-name="Monza v Brescia" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",12:30 PM - Monza v Brescia - 12:30 PM EDT - (09/26/2024)
+https://rr.vipstreams.in/charlie/js/monza-vs-brescia/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="64fc0fae20747799166866c2f805f0a7" tvg-name="Fenerbahçe v Union Saint-Gilloise" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",12:45 PM - Fenerbahçe v Union Saint-Gilloise - 12:45 PM EDT - (09/26/2024)
+https://rr.vipstreams.in/charlie/js/fenerbahce-vs-union-saint-gilloise/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="7fbce8e492b7cf1aa47c9846c82ad151" tvg-name="Malmö FF v Rangers" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",12:45 PM - Malmö FF v Rangers - 12:45 PM EDT - (09/26/2024)
+https://rr.vipstreams.in/charlie/js/malmo-ff-vs-rangers/1/playlist.m3u8|Referer=https://embedme.top/
+#EXTINF:-1 tvg-id="4d5138cc08813b2e6bd606d180ac3b42" tvg-name="Las Palmas v Real Betis" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/football.png?raw=true" group-title="Football",01:00 PM - Las Palmas v Real Betis - 01:00 PM EDT - (09/26/2024)
+https://rr.vipstreams.in/charlie/js/las-palmas-vs-real-betis/1/playlist.m3u8|Referer=https://embedme.top/
